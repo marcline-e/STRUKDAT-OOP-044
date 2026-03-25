@@ -132,7 +132,7 @@ public class PremiumAppSystem {
 
 ## Screenshot Output
 
-![screenshot output](diagram/diagram.png)
+![screenshot output](assets/output.png)
 
 > **Cara menjalankan:**
 > ```bash
