@@ -134,15 +134,6 @@ public class PremiumAppSystem {
 
 ![screenshot output](assets/output.png)
 
-> **Cara menjalankan:**
-> ```bash
-> # Compile
-> javac PremiumAppSystem.java
->
-> # Jalankan
-> java PremiumAppSystem
-> ```
-
 ---
 
 ## Penjelasan Prinsip OOP yang Diterapkan
